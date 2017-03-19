@@ -1,0 +1,20 @@
+body {
+  background-color: #fbfbfb;
+}
+.wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 3em;
+  margin-bottom: 4em;
+  padding: 0 1em;
+}
+
+.header {
+  text-align: center;
+}
+
+.avatar {
+  max-width: 140px;
+  margin-bottom: 0.25em;
+}
