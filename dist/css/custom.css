@@ -1,6 +1,12 @@
 body {
   background-color: #fbfbfb;
 }
+a {
+  color: lightskyblue
+}
+a:hover {
+  color: purple
+}
 .wrapper {
   width: 100%;
   max-width: 800px;
